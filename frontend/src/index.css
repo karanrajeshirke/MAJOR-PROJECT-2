@@ -1,0 +1,32 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar
+{
+  line-height: 26px;
+  font-size: 17px;
+}
+.active
+{
+  border-bottom: 2px solid red;
+}
+
+
+
+.image-container-order-page{
+  width: 200px; 
+  height: 200px; 
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.product-image-order{
+  width: 100%; 
+  height: auto; 
+}
